@@ -1,20 +1,49 @@
-Overview
-Cobuild is a modern, responsive website template designed for construction companies. It features a clean, professional design with a focus on showcasing services, projects, and client testimonials. Built entirely with HTML and CSS, this project demonstrates responsive web design principles and interactive UI elements.
+# 🏗️ Cobuild – Responsive Construction Company Website Template
 
-Features
-Responsive Design: Adapts seamlessly to various screen sizes, from mobile devices to large desktops.
-Smooth Scroll Navigation: Intuitive navigation links that smoothly scroll to different sections of the page (Home, Services, Work, Skills, Testimonials, Map).
-Hero Section: Engaging introductory section with a clear call to action.
-Services Section: Highlights key services offered with descriptive cards and icons.
-Featured Work Gallery: A dynamic gallery showcasing past projects, with filter options (the filtering functionality itself would require JavaScript, but the layout is ready).
-Experience/Skills Section: Visually represents the company's expertise and skill levels using progress bars.
-Testimonials: Displays client feedback in an appealing, card-based layout.
-Google Maps Integration: Embeds a Google Map to show the company's location.
-Contact Information in Footer: Essential contact details and social media links.
-Clean & Semantic HTML: Well-structured and easy-to-understand HTML markup.
-Modern CSS: Utilizes CSS variables, Flexbox, and Grid for efficient styling and layout.
-Technologies Used
-HTML5: For structuring the content.
-CSS3: For styling and responsiveness.
-Font Awesome: For scalable vector icons.
-Google Fonts: For custom typography (Open Sans, Roboto)
+**Cobuild** is a modern, responsive website template designed for construction companies. It features a clean, professional layout focused on showcasing services, completed projects, and client testimonials. Built entirely with **HTML5** and **CSS3**, this project highlights principles of **responsive design** and **interactive UI elements** without relying on JavaScript.
+
+---
+
+## 📌 Features
+
+* 📱 **Responsive Design**
+  Adapts seamlessly to all screen sizes — from mobile phones to large desktops.
+
+* 🧭 **Smooth Scroll Navigation**
+  Navigation links smoothly scroll to key sections: Home, Services, Work, Skills, Testimonials, Map.
+
+* 🖼️ **Hero Section**
+  Engaging top banner with a call to action and strong visual impact.
+
+* 🛠️ **Services Section**
+  Highlights key services using icon-based cards with descriptions.
+
+* 🖼️ **Featured Work Gallery**
+  A dynamic grid layout to showcase completed projects. 
+
+* 📊 **Experience / Skills Section**
+  Uses CSS-based progress bars to visually represent skill levels.
+
+* 💬 **Testimonials Section**
+  Client feedback shown in clean, card-style layout.
+
+* 🗺️ **Google Maps Integration**
+  Embedded map to display the company's physical location.
+
+* 📞 **Footer with Contact Info**
+  Includes essential contact details and social media links.
+
+* 🧼 **Clean & Semantic HTML**
+  Well-structured and readable HTML markup.
+
+* 🎨 **Modern CSS Techniques**
+  Uses CSS variables, Flexbox, and Grid for layout and styling efficiency.
+
+---
+
+## 🛠️ Technologies Used
+
+* **HTML5** – For semantic content structure
+* **CSS3** – For layout, responsiveness, and animations
+* **Font Awesome** – Scalable icons for UI elements
+* **Google Fonts** – Open Sans and Roboto for professional typography
