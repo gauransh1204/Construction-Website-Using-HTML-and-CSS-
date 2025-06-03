@@ -1,33 +1,21 @@
-# 🌐✨ Internship Task – Animated Interactive Website ✨🌐
+Cobuild: Responsive Construction Company Website
+Overview
+Cobuild is a modern, responsive website template for construction companies. It features a clean, professional design focused on showcasing services, projects, and client testimonials. Built with HTML and CSS, this project demonstrates responsive web design principles and interactive UI elements.
 
-As part of my internship at **Sparks to Ideas**, I built an **animated and interactive website** for a **construction company** 👷‍♂️🏗️ using **HTML**, **CSS**, and some **JavaScript-powered effects**.
-
-## 🔹 Website Features
-
-* 🖼️ **Hero Section**
-  Includes a visually appealing image, site title, and a **Call to Action** button like “Contact Us” 📞.
-
-* 🛠️ **Services Section**
-
-* 💬 **Testimonials Section**
-
-* 🏗️ **Featured Projects Gallery**
-
-* ✨ **Smooth Animations** and **Transitions** across elements
-
-* 🖱️ **Interactive Hover Effects**
-  — Click on specific names to highlight their info or trigger animations.
-
----
-
-This task helped me enhance my **frontend development** skills, especially in building responsive layouts, adding interactivity, and implementing animations. 💪💻
-
----
-
-### 🚀 Tech Used
-
-* HTML
-* CSS (Animations & Transitions)
-* JavaScript (Interactivity)
-
-
+Features
+Responsive Design: Adapts seamlessly to various screen sizes.
+Smooth Scroll Navigation: Links smoothly scroll to different page sections.
+Hero Section: Engaging introduction with a call to action.
+Services Section: Highlights key services with descriptive cards and icons.
+Featured Work Gallery: A dynamic gallery showcasing past projects.
+Experience/Skills Section: Visually represents expertise using progress bars.
+Testimonials: Displays client feedback in an appealing layout.
+Google Maps Integration: Embeds a Google Map to show the company's location.
+Contact Information: Footer includes essential contact details and social media links.
+Clean & Semantic HTML: Well-structured and easy-to-understand markup.
+Modern CSS: Utilizes CSS variables, Flexbox, and Grid for efficient styling.
+Technologies Used
+HTML5
+CSS3
+Font Awesome
+Google Fonts
